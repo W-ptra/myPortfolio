@@ -1,0 +1,21 @@
+*{
+    font-family: "Roboto",sans-serif;
+}
+#bold{
+    font-weight: 800;
+}
+
+.navbar .nav-item .nav-link:hover,
+.navbar .nav-item .nav-link:active{
+    font-weight: 600;
+}
+
+.skillset li img{
+    width: 2.5rem;
+    height: 2.5rem;
+}
+
+.carousel-inner .carousel-item img{
+    width: 40rem;
+    height: 32rem;
+}
