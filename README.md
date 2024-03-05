@@ -4,7 +4,7 @@ under development
 Live Demo: https://wisnuputra.xyz
 
 # How it work?
-using Node.js and Express.js serve static web
+using Node.js and Express.js serve static web,  
 for web i am using bootstrap and following the provided guide on youtube
 source: https://youtu.be/4TEtR_HvCZk?si=Fq942fV_4wnWaCST
 
