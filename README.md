@@ -1,7 +1,7 @@
 # myPortfolio
 under development
 
-Link: https://wisnuputra.xyz
+Live Demo: https://wisnuputra.xyz
 
 #How it work?
 using Node.js and Express.js serve static web
